@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myhomework</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_watch">Watch</string>
+    <string name="timer">00:00:00</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="restart">restart</string>
+</resources>
